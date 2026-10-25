@@ -85,7 +85,7 @@ export default function StorySelect({ onSelectStory, onBack, completedStories }:
       {/* Bottom info */}
       <div className="max-w-4xl mx-auto px-4 py-6 text-center">
         <p className="text-white/30 text-xs">
-          More stories coming soon! Each story includes Bible verses, interactive choices, and reflections.
+          📖 {stories.length} interactive Bible stories covering Genesis through Revelation! Each story includes NIV Bible verses, interactive choices, and reflections to bring you closer to Jesus.
         </p>
       </div>
     </div>

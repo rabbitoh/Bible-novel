@@ -51,7 +51,7 @@ export default function TitleScreen({ onStart }: Props) {
           Visual Novel Edition
         </h2>
         <p className="text-purple-300/80 text-sm md:text-base max-w-md mx-auto mb-8">
-          Experience God's Word through interactive storytelling. 
+          Experience God's Word through interactive storytelling — from Creation to Revelation. 
           Perfect for kids and adults alike!
         </p>
 
@@ -69,15 +69,15 @@ export default function TitleScreen({ onStart }: Props) {
         <div className="mt-12 grid grid-cols-3 gap-4 max-w-sm mx-auto">
           <div className="text-center">
             <div className="text-2xl mb-1">🎮</div>
-            <div className="text-purple-300/60 text-xs">Interactive</div>
+            <div className="text-purple-300/60 text-xs">35 Stories</div>
           </div>
           <div className="text-center">
             <div className="text-2xl mb-1">📖</div>
-            <div className="text-purple-300/60 text-xs">NIV Based</div>
+            <div className="text-purple-300/60 text-xs">NIV Verses</div>
           </div>
           <div className="text-center">
-            <div className="text-2xl mb-1">👨‍👩‍👧‍👦</div>
-            <div className="text-purple-300/60 text-xs">All Ages</div>
+            <div className="text-2xl mb-1">🌍</div>
+            <div className="text-purple-300/60 text-xs">Genesis→Revelation</div>
           </div>
         </div>
       </div>
